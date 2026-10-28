@@ -22,6 +22,7 @@ This repo is the 2–3 day MVP implementation of the AutoDQ major project.
   lifetime of the backend process — sufficient for a single-user MVP demo, and the
   architecture doesn't preclude adding persistence later.
 
+
 ## Architecture
 
 ```
