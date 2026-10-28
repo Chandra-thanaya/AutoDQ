@@ -278,7 +278,7 @@ Deferred, per the project plan, to keep the 2–3 day build achievable:
 - Add Isolation Forest as an alternative outlier detector for larger datasets
 - Support image/text dataset profiling as a separate analyzer track
 - Learned recommendation ranking based on which fixes historically improved F1/R² most
-
+- Add Datasets search tab using kaggle, openml, gov dataset,etc apis.
 ## Demo instructions
 
 1. Start the backend and frontend as above.
